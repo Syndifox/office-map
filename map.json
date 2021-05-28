@@ -61,6 +61,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/g.co\/meet\/meetingRoom"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
